@@ -1,0 +1,8 @@
+<:
+
+wn t-> 5;
+ch string -> "true";
+#The error here beacuse of the missing semi colon after the statement#
+incase(t):
+    disp string:
+:>

@@ -1,0 +1,11 @@
+<:
+#I cause a error 
+#Since the upper comment is not closed there is a error#
+ch string -> "hello";
+wn number -> 123;
+
+incase (number):
+    number ->-10;:
+notincase:
+    disp string;:
+:>

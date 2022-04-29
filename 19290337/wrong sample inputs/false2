@@ -1,0 +1,9 @@
+<:
+
+ch  string -> "haha";
+wn x -> 1;
+#The error here is the missing colon after the expression#
+during ~x 
+    disp string;
+    x -> - 1;
+:>

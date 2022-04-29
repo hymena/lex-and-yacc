@@ -1,0 +1,11 @@
+<:
+
+ch string -> "hello";
+ch goodbye -> "goodbye";
+wn x -> 2;
+wn y -> 5;
+incase (x <> y ):
+    disp string ;:
+notincase:
+    disp "goodbye" ;:
+:>
